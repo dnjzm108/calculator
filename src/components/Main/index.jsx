@@ -8,6 +8,7 @@ function Main() {
     const onChage = (e) =>{
         if(e === 'c'){
             setNums('')
+            setResult('')
         }else if(e === 'x'){
             setNums( nums.substr(0,nums.length-1));
         }else if(e === '='){
