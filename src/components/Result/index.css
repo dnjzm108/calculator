@@ -1,0 +1,29 @@
+.re_wrap{
+    padding-bottom: 10%;
+}
+.header{
+    border-bottom: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.result_li{
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.result_li > h4{
+    padding: 2px;
+    box-sizing: border-box;
+    font-size: 1rem;
+    font-weight: normal;
+    color: #808080;
+
+}
+.result_li > h5{
+    padding: 2px;
+    box-sizing: border-box;
+    font-weight: normal;
+    color: silver;
+}
